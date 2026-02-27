@@ -81,10 +81,10 @@ If any of that resonates with you, you’re in the right place.
 
 ## 📬 Final Note
 
-If you’re experimenting with local LLMs, prompt design, or AI personalities—or just curious—thanks for being here.
-Feel free to explore, remix, adapt, or build on anything you find useful.
+If you’re experimenting with local LLMs, prompt design, or AI personalities—or just curious—welcome!
+Feel free to experiment, remix, adapt, or build on anything you find useful.
 
-And if you have ideas or questions, I’m always happy to talk.
+And if you have ideas or questions, I’m always down to chat.
 
 ---
 
@@ -95,7 +95,7 @@ If you’d like, I can:
 * Add per-prompt descriptions
 * Rewrite this for a more professional or more playful audience
 
-Let me know if anything here feels unclear or if you want to steer it in a different direction.
+Let me know if anything here feels unclear or if you want to steer it in a different direction. These prompts have also been tested on Chat-GPT and they are pretty good when tuned correctly.
 
 Sincerely, 
 - Revan
