@@ -1,0 +1,15 @@
+## The Modelfile.md file is for use with Ollama. ##
+
+### In order to use it, follow these instructions: ###
+
+1. Install Ollama
+
+2. Move Modelfile into the directory you want to keep similar files
+
+3. Launch the terminal from that folder.
+
+4. Use the following command to have Ollama automatically pull the model and create a copy with your ruleset:
+
+$ ollama create <model-name> -f Modelfile
+
+5. Then just run the new model. Enjoy!
